@@ -7,6 +7,7 @@ public class Main {
         f.printJoke();
         f.printFileInfo();
         System.out.println(f.diktat("vstup", "vstup_copy.txt"));
+        f.numberReader("number_vstup", "number_vystup");
 
     }
 }
